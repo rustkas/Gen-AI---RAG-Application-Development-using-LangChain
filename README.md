@@ -1,4 +1,4 @@
-# Gen AI RAG Application Development using LangChain
+# Gen AI - RAG Application Development using LangChain
 Coding results based that course material
 
 ## What is this course included:
